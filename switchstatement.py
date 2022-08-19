@@ -47,23 +47,23 @@ class SwitchStatement:
                 
 
 
-# s is the instance of SwitchStatement
-s=SwitchStatement()
-# switch(conditions)
-s.switch("2+3")
+# # s is the instance of SwitchStatement
+# s=SwitchStatement()
+# # switch(conditions)
+# s.switch("2+3")
 
-s.getKeys()
-#adding cases
-s.case("+","2+3")
-s.case("/","2-2")
-# default : statement break;
-s.default("help")
-
-
-s.getKeys()
+# s.getKeys()
+# #adding cases
+# s.case("+","2+3")
+# s.case("/","2-2")
+# # default : statement break;
+# s.default("help")
 
 
-s.switch("a")
-s.switch(0)
+# s.getKeys()
+
+
+# s.switch("a")
+# s.switch(0)
 
 
